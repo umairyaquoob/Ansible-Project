@@ -1,5 +1,5 @@
 ---
-#This playbook will install LAMP stack (Apache, mysql, php) on the remote machine
+# This playbook will install LAMP stack (Apache, mysql, php) on the remote machine
 
  - hosts: dev                                        
    become: yes
